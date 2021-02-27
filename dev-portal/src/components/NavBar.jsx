@@ -33,7 +33,7 @@ export const NavBar = observer(
   class NavBar extends React.Component {
     render () {
       const email = store.user && store.user.email
-      return <Menu inverted borderless attached style={{ flex: '0 0 auto' }} stackable>
+      return <Menu  borderless attached style={{ flex: '0 0 auto' }} stackable>
         <MenuLink to='/'>
           <Image size='mini' src='/custom-content/nav-logo.png' style={{ paddingRight: '10px' }} />
           {fragments.Home.title}

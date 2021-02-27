@@ -2,7 +2,7 @@
 title: Getting Started
 ---
 
-## Getting Started
+## Getting Started with RedShelf APIs
 
 ### Create an account and subscribe to APIs
 

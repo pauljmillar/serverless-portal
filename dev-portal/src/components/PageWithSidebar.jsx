@@ -24,7 +24,6 @@ export default class PageWithSidebar extends React.Component {
       >
         <Sidebar
           as={Menu}
-          inverted
           attached
           borderless
           vertical
